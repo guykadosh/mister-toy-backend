@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "IsWmp",
+    "name": "Superman",
+    "price": 45,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1657561160757,
+    "inStock": true
+  },
+  {
+    "_id": "5iI8y",
+    "name": "Batman",
+    "price": 82,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1657561160757,
+    "inStock": true
+  },
+  {
+    "_id": "KYBNx",
+    "name": "Ironman",
+    "price": 42,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1657561160757,
+    "inStock": true
+  },
+  {
+    "name": "Not in stock",
+    "price": 1,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1657563123118,
+    "inStock": false,
+    "_id": "cLizo"
+  }
+]
