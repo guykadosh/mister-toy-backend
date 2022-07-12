@@ -6,7 +6,7 @@ const cors = require('cors')
 const port = process.env.PORT || 3030
 
 // Express App Configuration:
-// app.use(express.static('public'))
+app.use(express.static('public'))
 app.use(express.json())
 app.use(cors())
 

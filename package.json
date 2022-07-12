@@ -6,7 +6,8 @@
   "scripts": {
     "show-files": "dir",
     "pingo": "ping google.com",
-    "start": "nodemon --ignore \"./data\" server.js"
+    "start": "node server.js",
+    "dev": "nodemon --ignore \"./data\" server.js"
   },
   "author": "",
   "license": "ISC",
